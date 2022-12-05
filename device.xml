@@ -7,6 +7,8 @@
            />
 
   <project path="device/sony/pdx206" name="android_device_sony_pdx206" remote="Sony-edo-development"  />
+  <project path="device/sony/sm8250-common" name="android_device_sony_sm8250-common" remote="Sony-edo-development"  />
+  <project path="kernel/sony/sm8250" name="android_kernel_sony_sm8250" remote="Sony-edo-development"  />
 
 
 </manifest>

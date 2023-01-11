@@ -3,7 +3,7 @@
 
   <remote name="Sony-edo-development"
           fetch="https://github.com/Sony-edo-development"
-          revision="lineage-19.1"
+          revision="lineage-20"
            />
 
   <project path="device/sony/pdx203" name="android_device_sony_pdx203" remote="Sony-edo-development"  />

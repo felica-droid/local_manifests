@@ -3,20 +3,30 @@
 
   <remote name="felica-droid"
           fetch="https://github.com/felica-droid"
-          revision="lineage-20"
+          revision="lineage-21"
            />
 
   <!-- Device Tree -->
   <project path="device/sony/pdx203" name="android_device_sony_pdx203" remote="felica-droid"  />
   <project path="device/sony/pdx206" name="android_device_sony_pdx206" remote="felica-droid"  />
+  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="felica-droid"  />
+  <project path="device/lge/joan" name="android_device_lge_joan" remote="felica-droid"  />
 
   <!-- Device Commpn Tree -->
   <project path="device/sony/sm8250-common" name="android_device_sony_sm8250-common" remote="felica-droid"  />
+  <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="felica-droid"  />
 
   <!-- Device Kernel -->
   <project path="kernel/sony/sm8250" name="android_kernel_sony_sm8250" remote="felica-droid"  />
+  <project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8350" remote="felica-droid"  />
+  <project path="kernel/lge/msm8998" name="android_kernel_lge_msm8998" remote="felica-droid"  />
 
   <!-- Hardware  -->
+  <project path="hardware/xiaomi" name="android_hardware_lge" remote="felica-droid"  />
+  <project path="hardware/sony" name="android_hardware_sony" remote="felica-droid"  />
+  <project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" remote="felica-droid"  />
+  <project path="hardware/lge" name="android_hardware_xiaomi" remote="felica-droid"  />
+
 
   <!-- Felica -->
 </manifest>

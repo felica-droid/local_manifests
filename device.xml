@@ -18,14 +18,14 @@
 
   <!-- Device Kernel -->
   <project path="kernel/sony/sm8250" name="android_kernel_sony_sm8250" remote="felica-droid"  />
-  <project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8350" remote="felica-droid"  />
+  <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="felica-droid"  />
   <project path="kernel/lge/msm8998" name="android_kernel_lge_msm8998" remote="felica-droid"  />
 
   <!-- Hardware  -->
-  <project path="hardware/xiaomi" name="android_hardware_lge" remote="felica-droid"  />
+  <project path="hardware/lge" name="android_hardware_lge" remote="felica-droid"  />
   <project path="hardware/sony" name="android_hardware_sony" remote="felica-droid"  />
   <project path="hardware/sony/timekeep" name="android_hardware_sony_timekeep" remote="felica-droid"  />
-  <project path="hardware/lge" name="android_hardware_xiaomi" remote="felica-droid"  />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="felica-droid"  />
 
 
   <!-- Felica -->

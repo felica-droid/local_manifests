@@ -29,6 +29,12 @@
 
 
   <!-- Felica -->
+   <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="android_vendor_nxp_opensource_commonsys_external_libnfc-nci" remote="felica-droid" />
+  <project path="vendor/nxp/opensource/commonsys/frameworks" name="android_vendor_nxp_opensource_commonsys_frameworks" remote="felica-droid" />
+  <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="android_vendor_nxp_opensource_commonsys_packages_apps_Nfc" remote="felica-droid" />
+  <project path="vendor/nxp/opensource/sn100x/hidlimpl" name="android_vendor_nxp_opensource_sn100x_hidlimpl" remote="felica-droid" />
+  <project path="vendor/nxp/opensource/sn100x/halimpl" name="android_vendor_nxp_opensource_sn100x_halimpl" remote="felica-droid" />
+  <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_opensource_interfaces_nfc" remote="felica-droid" />
 </manifest>
 
 

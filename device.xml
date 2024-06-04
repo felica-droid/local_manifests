@@ -3,7 +3,7 @@
 
   <remote name="felica-droid"
           fetch="https://github.com/felica-droid"
-          revision="lineage-20"
+          revision="lineage-19.1"
            />
 
   <!-- Device Tree -->
@@ -17,10 +17,10 @@
 
   <!-- Device Kernel -->
   <project path="kernel/sony/sm8250" name="android_kernel_sony_sm8250" remote="felica-droid"  />
-  <project path="kernel/xiaomi/sm8250" name="android_kernel_xiaomi_sm8350" remote="felica-droid"  />
+  <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="felica-droid"  />
 
   <!-- Hardware  -->
-  <project path="hardware/xiaomi" name="android_hardware_lge" remote="felica-droid"  />
+  <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="felica-droid"  />
   <project path="hardware/sony" name="android_hardware_sony" remote="felica-droid"  />
 
 

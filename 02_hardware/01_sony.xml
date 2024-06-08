@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="hardware/sony" name="android_hardware_sony" remote="device" />
+</manifest>

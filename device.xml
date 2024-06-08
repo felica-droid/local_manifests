@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote name="felica-droid"
-          fetch="https://github.com/felica-droid"
-          revision="lineage-21"
-           />
-
   <!-- Device Tree -->
   <project path="device/sony/pdx203" name="android_device_sony_pdx203" remote="felica-droid"  />
   <project path="device/sony/pdx206" name="android_device_sony_pdx206" remote="felica-droid"  />

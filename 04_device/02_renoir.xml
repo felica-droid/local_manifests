@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree -->
+  <project path="device/xiaomi/renoir" name="android_device_xiaomi_renoir" remote="device" />
+  <!-- Device Commpn Tree -->
+  <project path="device/xiaomi/sm8350-common" name="android_device_xiaomi_sm8350-common" remote="device" />
+  <!-- Kernel -->
+  <project path="kernel/xiaomi/sm8350" name="android_kernel_xiaomi_sm8350" remote="device" />
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree -->
+  <project path="device/sony/griffin" name="android_device_sony_griffin" remote="device" />
+  <project path="device/sony/bahamut" name="android_device_sony_bahamut" remote="device" />
+  <!-- Commpn Tree -->
+  <project path="device/sony/sm8150-common" name="android_device_sony_sm8150-common" remote="device" />
+  <!-- Kernel -->
+  <project path="kernel/sony/sm8150" name="android_kernel_sony_sm8150" remote="device" />
+</manifest>

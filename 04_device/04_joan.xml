@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device Tree -->
-  <project path="device/lge/renoir" name="android_device_lge_joan" remote="device" />
+  <project path="device/lge/joan" name="android_device_lge_joan" remote="device" />
   <!-- Kernel -->
   <project path="kernel/lge/sm8350" name="android_kernel_lge_msm8998" remote="device" />
 </manifest>

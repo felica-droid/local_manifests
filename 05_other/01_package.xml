@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="packages/apps/Nfc" />
+  <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="device" />
+</manifest>

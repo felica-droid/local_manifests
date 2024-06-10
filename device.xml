@@ -6,7 +6,6 @@
   <include name="local_manifests/02_hardware/01_sony.xml" />
   <include name="local_manifests/02_hardware/02_xiaomi.xml" />
   <!-- Vendor  -->
-  <include name="local_manifests/03_vendor/01_nxp.xml" />
   <!-- Device  -->
   <include name="local_manifests/04_device/01_edo.xml" />
   <include name="local_manifests/04_device/02_renoir.xml" />

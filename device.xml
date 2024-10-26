@@ -14,5 +14,4 @@
   <include name="local_manifests/04_device/03_kumano.xml" />
   <include name="local_manifests/04_device/04_joan.xml" />
   <!-- Other  -->
-  <include name="local_manifests/05_other/02_package.xml" />
 </manifest>

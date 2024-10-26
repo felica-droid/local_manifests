@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remove-project name="LineageOS/android_frameworks_base" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="device" />
-</manifest>

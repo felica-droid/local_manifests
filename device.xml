@@ -6,8 +6,8 @@
   <include name="local_manifests/02_hardware/01_sony.xml" />
   <!--
   <include name="local_manifests/02_hardware/02_xiaomi.xml" />
-  <include name="local_manifests/02_hardware/03_lge.xml" />
   -->
+  <include name="local_manifests/02_hardware/03_lge.xml" />
   <!-- Vendor  -->
   <!-- Device  -->
   <!--

@@ -3,13 +3,8 @@
   <!-- Remote  -->
   <include name="local_manifests/01_remote/01_device.xml" />
   <!-- Hardware  -->
-  <include name="local_manifests/02_hardware/01_sony.xml" />
-  <include name="local_manifests/02_hardware/02_xiaomi.xml" />
   <include name="local_manifests/02_hardware/03_lge.xml" />
   <!-- Vendor  -->
   <!-- Device  -->
-  <include name="local_manifests/04_device/01_edo.xml" />
-  <include name="local_manifests/04_device/02_renoir.xml" />
-  <include name="local_manifests/04_device/03_kumano.xml" />
   <include name="local_manifests/04_device/04_joan.xml" />
 </manifest>

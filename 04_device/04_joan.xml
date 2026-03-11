@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Device Tree -->
+  <project path="device/lge/joan-common" name="android_device_lge_joan-common" remote="device" />
   <project path="device/lge/joan" name="android_device_lge_joan" remote="device" />
   <project path="device/lge/l01k" name="android_device_lge_l01k" remote="device" />
   <project path="device/lge/lgv35" name="android_device_lge_lgv35" remote="device" />

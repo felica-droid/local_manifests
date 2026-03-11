@@ -5,7 +5,7 @@ Getting started
 ---------------
 ```
 cd .repo
-git clone https://github.com/felica-droid/local_manifests.git -b lineage-21
+git clone https://github.com/felica-droid/local_manifests.git -b lineage-22.2
 ```
 Then to sync up:
 ```

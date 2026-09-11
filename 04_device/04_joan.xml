@@ -3,8 +3,9 @@
   <!-- Device Tree -->
   <project path="device/lge/joan-common" name="android_device_lge_joan-common" remote="device" />
   <project path="device/lge/joan" name="android_device_lge_joan" remote="device" />
-  <project path="device/lge/l01k" name="android_device_lge_l01k" remote="device" />
-  <project path="device/lge/lgv35" name="android_device_lge_lgv35" remote="device" />
+  <project path="device/lge/joan_jp" name="android_device_lge_joan_jp" remote="device" />
+  <!-- Apps -->
+  <project path="packages/apps/FelicaService" name="android_packages_apps_FelicaService" remote="device" />
   <!-- Kernel -->
   <project path="kernel/lge/msm8998" name="android_kernel_lge_msm8998" remote="device" />
 </manifest>
